@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera manga larga azul",
+        "precio": 7000,
+        "stock": 10,
+        "img": "Remera azul.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera manga larga verde",
+        "precio": 7000,
+        "stock": 10,
+        "img": "Remera verde.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera manga larga celeste",
+        "precio": 7000,
+        "stock": 10,
+        "img": "Remera celeste.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera manga corta blanca",
+        "precio": 4500,
+        "stock": 10,
+        "img": "Remera blanca.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera manga corta violeta",
+        "precio": 4500,
+        "stock": 10,
+        "img": "Remera violeta.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera manga corta marron",
+        "precio": 4500,
+        "stock": 10,
+        "img": "Remera marron.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera lisa gris",
+        "precio": 5000,
+        "stock": 10,
+        "img": "Remera lisa gris.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera manga lisa violeta",
+        "precio": 5000,
+        "stock": 10,
+        "img": "Remera lisa violeta.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": "Remeras",
+        "marca": "Alta demanda",
+        "modelo": "Remera manga rayada violeta",
+        "precio": 5000,
+        "stock": 10,
+        "img": "Remera rayada violeta.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": "Pantalones",
+        "marca": "Alta demanda",
+        "modelo": "Jean clasico",
+        "precio": 10000,
+        "stock": 10,
+        "img": "Jean clasico.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": "Pantalones",
+        "marca": "Alta demanda",
+        "modelo": "Jean negro",
+        "precio": 10000,
+        "stock": 10,
+        "img": "Jean negro.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": "Pantalones",
+        "marca": "Alta demanda",
+        "modelo": "Short",
+        "precio": 6500,
+        "stock": 10,
+        "img": "Short.jpg"
+    },
+    {
+        "id": 13,
+        "idCategoria": "Accesorios",
+        "marca": "Alta demanda",
+        "modelo": "Tote bag azul",
+        "precio": 15000,
+        "stock": 10,
+        "img": "Totebag azul.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria": "Accesorios",
+        "marca": "Alta demanda",
+        "modelo": "Tote bag roja",
+        "precio": 15000,
+        "stock": 10,
+        "img": "Totebag roja.jpg"
+    },
+    {
+        "id": 15,
+        "idCategoria": "Accesorios",
+        "marca": "Alta demanda",
+        "modelo": "Tote bag mostaza",
+        "precio": 15000,
+        "stock": 10,
+        "img": "Totebag mostaza.jpg"
+    }
+]
