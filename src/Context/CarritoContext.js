@@ -41,7 +41,7 @@ export const CarritoProvider = (props) => {
         /*const aux = [...carrito]
         const indice = aux.findIndex(prod => prod.id === id)
         setCarrito(aux.splice(indice,1))*/
-        setCarrito(carrito.filter(prod => prod.id !== id), toast.error("Producto eliminado del carrito"))
+        setCarrito(carrito.filter(prod => prod.id !== id), toast.error("Producto eliminado del carrito", {position: toast.POSITION.BOTTOM_LEFT}))
     }
 
     const getItemQuantity = () => {
