@@ -66,7 +66,7 @@
         "id": 8,
         "idCategoria": "Remeras",
         "marca": "Alta demanda",
-        "modelo": "Remera manga lisa violeta",
+        "modelo": "Remera lisa violeta",
         "precio": 5000,
         "stock": 10,
         "img": "Remera lisa violeta.jpg"
@@ -75,7 +75,7 @@
         "id": 9,
         "idCategoria": "Remeras",
         "marca": "Alta demanda",
-        "modelo": "Remera manga rayada violeta",
+        "modelo": "Remera rayada violeta",
         "precio": 5000,
         "stock": 10,
         "img": "Remera rayada violeta.jpg"
